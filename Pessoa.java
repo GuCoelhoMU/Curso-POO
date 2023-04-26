@@ -38,5 +38,4 @@ public void setExperiencia(int experiencia) {
 	this.experiencia = experiencia;
 }
 
-
 }
